@@ -1,4 +1,4 @@
 spring: 
   application: 
     name: config-server
-   profile: dev
+  profile: dev
